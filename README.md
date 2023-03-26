@@ -12,6 +12,6 @@ Local storage for persistence of user data
 Interactive input fields for easy editing and saving of tasks
 
 # Getting Started 
-To view my Work Day Scheduler visit "".
+To view my Work Day Scheduler visit "https://turboteam335.github.io/-Work-Day-Scheduler/".
 
 To use the scheduler navigate to the desired time block by scrolling vertically. Click on the input field corresponding to the time block, enter the task description, and hit the save button. Your tasks will persist even when the page is reloaded, thanks to the local storage functionality.
